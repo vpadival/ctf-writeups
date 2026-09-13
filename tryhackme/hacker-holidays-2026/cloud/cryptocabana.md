@@ -63,7 +63,7 @@ seed_phrase.txt
 ```json
 {
   "client_id": "dbcf2923-e4eb-4b72-a0a4-688aa1185cf5",
-  "client_secret": "UBX8Q~xM6vawWZ5u2C-VhLlsB2Cx2dAuxcrAlbRg",
+  "client_secret": "<THM_LAB_CLIENT_SECRET_REDACTED>",
   "key_vault_name": "ccabana-kv-f5scjagc",
   "key_vault_uri": "https://ccabana-kv-f5scjagc.vault.azure.net/",
   "note": "CryptoCabana backup automation account. Rotate this if it ever leaves the vault."
@@ -91,9 +91,11 @@ Tenant ID recovered: `8f8c5f8e-42d3-4ceb-97ad-241bbf446d6c`
 ```bash
 az login --service-principal \
   -u dbcf2923-e4eb-4b72-a0a4-688aa1185cf5 \
-  -p 'UBX8Q~xM6vawWZ5u2C-VhLlsB2Cx2dAuxcrAlbRg' \
+  -p '<THM_LAB_CLIENT_SECRET_REDACTED>' \
   --tenant 8f8c5f8e-42d3-4ceb-97ad-241bbf446d6c
 ```
+
+The lab-provided client secret is intentionally redacted here. Substitute it locally during the room, but do not publish it.
 
 Login succeeded, dropping into subscription `Az-Subs-CTF`.
 
