@@ -92,7 +92,3 @@ If you're building something like VERA:
 4. If a "reveal on explicit request" exception must exist at all, bind it to precise phrasing, not intent-matching — and treat any such rule as inherently risky.
 
 If you're red-teaming one: enumerate before you exploit. VERA told me exactly who she trusted and exactly what phrase would unlock her the moment I asked nicely. Half the challenge here wasn't a jailbreak — it was just listening.
-
----
-
-*Part of TryHackMe's Hacker Holidays 2026, a free 14-day challenge series running from July 27, 2026, with $50,000+ in prizes across web, mobile, infrastructure, and AI tracks.*
