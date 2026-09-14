@@ -3,7 +3,7 @@
 **Category:** Boot2Root
 **Difficulty:** Medium
 **Points:** 90
-**Target:** `10.114.177.77`
+**Target:** `10.114.177.77` (lab IP, rotated during engagement)
 
 ## Summary
 
