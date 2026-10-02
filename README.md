@@ -6,7 +6,7 @@ A collection of walkthroughs, notes, and technical writeups for TryHackMe rooms,
 
 | Collection | Platform | Category Highlights | Writeups |
 |---|---|---|:---:|
-| [CyberWeek Encore](cyberweek-encore/README.md) | CyberWeek Encore CTF | Crypto, Forensics, Misc, Reversing, Web | 22 |
+| [CyberWeek Encore](cyberweek-encore/README.md) | CyberWeek Encore CTF | Crypto, Forensics, Misc, Reversing, Web | 23 |
 | [TryHackMe — Hacker Holidays 2026](tryhackme/hacker-holidays-2026/README.md) | TryHackMe | Web, Boot2Root, Forensics, Cloud, OSINT, AI | 13 |
 | [Hack The Box — Holmes CTF 2026](hackthebox/Holmes26/README.md) | Hack The Box | DFIR, Active Directory, Reverse Engineering, Malware, Smart Contracts | 5 |
 

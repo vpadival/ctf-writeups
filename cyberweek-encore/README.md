@@ -1,6 +1,6 @@
 # CyberWeek Encore CTF Writeups
 
-22 writeups grouped by category and challenge, with the supplied files alongside each writeup. Original filenames and file contents are preserved.
+23 writeups grouped by category and challenge, with the supplied files alongside each writeup. Original filenames and file contents are preserved.
 
 All challenges in this collection belong to CyberWeek Encore, as confirmed by the repository owner. The event year is not specified.
 
@@ -23,10 +23,11 @@ All challenges in this collection belong to CyberWeek Encore, as confirmed by th
 | BISIM_HIKAYE | misc | [Writeup](misc/bisim-hikaye/BISIM_HIKAYE%20-%20Misc%20Challenge%20Writeup.md) | [Screenshot 2026-09-24 222833.png](misc/bisim-hikaye/Screenshot%202026-09-24%20222833.png) |
 | CLARK_KENT_FLIES | misc | [Writeup](misc/clark-kent-flies/CLARK_KENT_FLIES_writeup.md) | [last_son_of_krypton.wav](misc/clark-kent-flies/last_son_of_krypton.wav) |
 | MUSK_GOT_HACKED | misc | [Writeup](misc/musk-got-hacked/_MUSK_GOT_HACKED%20%E2%80%94%20CyberWeek%20Write-up.md) | No matching local file |
+| NAAGIN | misc | [Writeup](misc/naagin/_NAAGIN%20%E2%80%94%20CTF%20Write-up.md) | [solve.zip](misc/naagin/solve.zip) |
 | STONES | misc | [Writeup](misc/stones/_STONES%20%E2%80%94%20CyberWeek%20CTF%20Write-up.md) | [The_Hidden_Infinity_Stone_PARTICIPANT.zip](misc/stones/The_Hidden_Infinity_Stone_PARTICIPANT.zip) |
 | WAKANDA_INTERCEPT | misc | [Writeup](misc/wakanda-intercept/WAKANDA_INTERCEPT%20Challenge%20Writeup%20file.md) | [wakanda_intercept.pcap](misc/wakanda-intercept/wakanda_intercept.pcap) |
 | BLACKBOX | reversing | [Writeup](reversing/blackbox/_BLACKBOX%20%E2%80%94%20CyberWeek%20CTF%20Write-up.md) | [blackbox.zip](reversing/blackbox/blackbox.zip) |
-| Custom Encoder (Reverse the Logic) | reversing | [Writeup](reversing/custom-encoder/Custom%20Encoder%20%28Reverse%20the%20Logic%29.md) | [challenge3_medium_encoder.py](reversing/custom-encoder/challenge3_medium_encoder.py), [challenge3_medium_encoder (1).py](reversing/custom-encoder/challenge3_medium_encoder%20%281%29.py) |
+| Custom Encoder (Reverse the Logic) | reversing | [Writeup](reversing/custom-encoder/Custom%20Encoder%20%28Reverse%20the%20Logic%29.md) | [challenge3_medium_encoder.py](reversing/custom-encoder/challenge3_medium_encoder.py) |
 | DOOMBASE | web | [Writeup](web/doombase/DOOMBASE%20%E2%80%94%20CyberWeek%20CTF%20Write-up.md) | No matching local file |
 | FINLYTICS | web | [Writeup](web/finlytics/_FINLYTICS%20%E2%80%94%20Web%20CTF%20Write-up.md) | No matching local file |
 | MARK49 | web | [Writeup](web/mark49/_MARK49%20%E2%80%94%20CyberWeek%20Web%20Challenge%20Write-up.md) | No matching local file |
